@@ -65,4 +65,18 @@ public class JaywayJsonPathExamples {
 		Map<String, ?> lastDataElement = JsonPath.read(jsonResponse, "$.data[-1]");
 		System.out.println(lastDataElement.toString());
 	}
+	
+	@Test
+	public void getTheListOfIdUnderData() {
+		System.out.println("Printing all id's under data");
+		List<String> ids = JsonPath.read(jsonResponse, "$.data[*].id");
+		System.out.println(ids.toString());
+	}
+	
+	@Test
+	public void getTheListOfAllIdsInJsonFile() {
+		System.out.println("Printing all id's in a Json file");
+		List<String> ids = JsonPath.read(jsonResponse, "$..[*].id");
+		System.out.println(ids.toString());
+	}
 }
