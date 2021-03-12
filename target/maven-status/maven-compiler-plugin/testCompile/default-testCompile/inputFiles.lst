@@ -1,0 +1,7 @@
+/Users/tejasvihegde/Documents/Udemy_projects/rest-assured-introduction/StudentAppBasics/src/test/java/com/studentapp/tests/UpdateStudentPojoPayloadTest.java
+/Users/tejasvihegde/Documents/Udemy_projects/rest-assured-introduction/StudentAppBasics/src/test/java/com/studentapp/tests/StudentGetRequestTests.java
+/Users/tejasvihegde/Documents/Udemy_projects/rest-assured-introduction/StudentAppBasics/src/test/java/com/studentapp/tests/UpdateStudentEmailTest.java
+/Users/tejasvihegde/Documents/Udemy_projects/rest-assured-introduction/StudentAppBasics/src/test/java/com/studentapp/tests/CreateStudentStringPayloadTest.java
+/Users/tejasvihegde/Documents/Udemy_projects/rest-assured-introduction/StudentAppBasics/src/test/java/com/studentapp/tests/CreateStudentPojoPayloadTest.java
+/Users/tejasvihegde/Documents/Udemy_projects/rest-assured-introduction/StudentAppBasics/src/test/java/com/studentapp/tests/DeleteStudentTest.java
+/Users/tejasvihegde/Documents/Udemy_projects/rest-assured-introduction/StudentAppBasics/src/test/java/com/studentapp/tests/TestBase.java

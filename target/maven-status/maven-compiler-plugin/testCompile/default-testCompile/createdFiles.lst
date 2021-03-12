@@ -1,0 +1,7 @@
+com/studentapp/tests/StudentGetRequestTests.class
+com/studentapp/tests/CreateStudentStringPayloadTest.class
+com/studentapp/tests/CreateStudentPojoPayloadTest.class
+com/studentapp/tests/UpdateStudentPojoPayloadTest.class
+com/studentapp/tests/TestBase.class
+com/studentapp/tests/DeleteStudentTest.class
+com/studentapp/tests/UpdateStudentEmailTest.class
